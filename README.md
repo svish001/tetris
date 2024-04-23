@@ -9,14 +9,15 @@ My ascii/cli rendition of tetris.
 If on linux, install `libncursesw5-dev` as dependency.
 
 ```bash
-git clone 'https://github.com/svish001/tetris' && cd tetris
-make
-sudo make install
+1 git clone 'https://github.com/svish001/tetris'
+2 cd tetris
+3 make
+4 sudo make install
 ```
 ### Homebrew
 ```bash
-brew tap svish001/tap
-brew install tetris
+1 brew tap svish001/tap
+2 brew install tetris
 ```
 
 ## Usage 

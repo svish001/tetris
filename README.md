@@ -1,7 +1,7 @@
 # tetris
 My ascii/cli rendition of tetris.
 
-<img src=docs/out.gif width=500px>
+<img src=docs/.gif width=500px>
 
 ## Installation
 

@@ -8,6 +8,13 @@ My ascii/cli rendition of tetris.
 ### Source
 If on linux, install `libncursesw5-dev` as dependency.
 
+add for linux
+```bash
+sudo apt-get update
+sudo apt-get install libncursesw5-dev
+before usual
+```
+
 ```bash
 1 git clone 'https://github.com/svish001/tetris'
 2 cd tetris
